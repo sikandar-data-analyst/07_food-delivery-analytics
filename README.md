@@ -129,3 +129,4 @@ Tools: Excel, Python (pandas, matplotlib), MySQL, Power BI.
 ---
 
 Sikandar Khan · [GitHub](https://github.com/sikandar-data-analyst)
+ [LinkedIn ](https://www.linkedin.com/in/sikandar-khan-5ba465422/)
